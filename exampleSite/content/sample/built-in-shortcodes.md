@@ -30,10 +30,6 @@ See https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcod
 </section>
 {{< /highlight >}}
 
-## tweet
-
-{{< tweet id="877500564405444608" user="GoHugoIO" >}}
-
 ## vimeo
 {{< vimeo 146022717 >}}
 
