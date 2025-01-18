@@ -404,9 +404,7 @@ fieldset {
   font-size: 18px;
   line-height: 1.6666666667;
   color: #000;
-  font-family: var(--custom-font-family-base, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Roboto, 'Inter', 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', PingFangSC-Regular,'Source Han Sans CN', 'noto sans', 'Noto Sans TC', sans-serif);
-  -webkit-font-feature-settings: "pwid";
-          font-feature-settings: "pwid";
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Roboto, 'Inter', 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', PingFangSC-Regular,'Source Han Sans CN', 'noto sans', 'Noto Sans TC', sans-serif;
 }
 
 body {
@@ -420,7 +418,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--custom-font-family-headings, -apple-system, BlinkMacSystemFont, "游ゴシック体", YuGothic, "メイリオ", Meiryo, "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Roboto, 'Inter', 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', PingFangSC-Regular,'Source Han Sans CN', 'noto sans', 'Noto Sans TC', sans-serif;
   font-weight: bold;
   line-height: 1.6666666667;
 }

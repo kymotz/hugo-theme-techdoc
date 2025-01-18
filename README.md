@@ -434,3 +434,7 @@ Techdoc bundles the following third-party resources:
 [thingsym](https://github.com/thingsym)
 
 Copyright (c) 2017-2020 by [thingsym](https://management.thingslabo.com/)
+
+## start example 
+
+hugo server -s ./exampleSite -D --themesDir "../.."
